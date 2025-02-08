@@ -77,6 +77,10 @@ Session.vim
 .vscode/ltex.disabledRules.en-US.txt
 .vscode/ltex.dictionary.en-US.txt
 
+## Nix
+
+result
+
 # Visual Studio
 .vs/
 out/
